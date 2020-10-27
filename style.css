@@ -1,0 +1,41 @@
+h1{
+    text-align: center;
+}
+.redText{
+    color: red;
+}
+.blueText{
+    color: blue;
+}
+.greenText{
+    color: green;
+}
+.bigText {
+    font-size: 30px;
+}
+.tinyText{
+    font-size: 10px;
+}
+.centeredText{
+    text-align: center;
+}
+.boldText{
+    font-weight: bold;
+}
+.sansSerifText{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.fancyText{
+    font-size: 30px;
+    color: orange;
+    font-weight: bold;
+}
+.styledFont{
+    font-size: 16px;
+    font-style: italic;
+    font-weight: lighter;
+    color: blueviolet;
+}
+#styledImage{
+    border: 10px solid blueviolet;
+}
